@@ -14,4 +14,4 @@ This is my 1st Project so pardon the ineffective coding.
 Oracle 11g with Login credentials username:"HR" password:"root"
 
 # How to Run The App
- If the requirement are installed, run the " # first_window" file under "dist" folder
+ If the requirement are installed, run the " first_window" file under "dist" folder
